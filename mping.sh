@@ -98,5 +98,5 @@ mping 10
 echo ''
 moretrace
 echo ''
-echo '此结果由mping生成:https://github.com/helloxz/mping'
+echo '此结果由mping生成:https://www.xiaoz.me/archives/13044'
 echo ''

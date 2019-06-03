@@ -139,5 +139,5 @@ traceroute to 211.138.180.2 (211.138.180.2), 30 hops max, 60 byte packets
 
 ### 联系我
 * Blog：[https://www.xiaoz.me/](https://www.xiaoz.me/)
-* 社区支持：[https://ttt.sh/](https://ttt.sh/category/6/)
+* 社区支持：[https://ttt.sh/](https://ttt.sh/)
 * QQ:337003006
